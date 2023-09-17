@@ -1,0 +1,35 @@
+.container{
+    padding: 60px;
+}
+
+.mainBox{
+    border-radius: 20px;
+    padding: 30px;
+    border: 1px solid;
+    font-size: 20px;
+    /* background: #9e6363; */
+    margin: auto;
+    width: 50%;
+    box-shadow: 0px 6px 12px #adadad14 !important;
+     background-color: white;
+     display: flex;
+    justify-content: center;
+}
+
+.questionBox{
+    gap: 13px;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    padding-bottom: 20px;
+
+}
+
+
+
+.radioButtonBox{
+    display: flex;
+    gap: 20px;
+
+}
